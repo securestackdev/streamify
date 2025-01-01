@@ -1,0 +1,29 @@
+{
+  "name": "streamify",
+  "version": "1.0.0",
+  "description": "A custom node js stream cli tool.",
+  "main": "index.js",
+  "bin": {
+    "streamify": "bin/streamify.js"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "readable",
+    "writable",
+    "transform",
+    "stream",
+    "fs",
+    "filesystem"
+  ],
+  "author": "judeoscar",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
