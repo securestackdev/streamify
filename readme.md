@@ -19,7 +19,7 @@ To use Streamify, clone the repository and include it in your Node.js project:
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/securestackdev/streamify.git
 
 # Navigate to the project directory
 cd streamify
