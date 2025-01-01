@@ -1,5 +1,5 @@
 {
-  "name": "streamify",
+  "name": "@judeoscar/streamify",
   "version": "1.0.0",
   "description": "A custom node js stream cli tool.",
   "main": "index.js",
